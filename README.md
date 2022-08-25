@@ -1,6 +1,6 @@
 # Data Capture And Analysis Of Cab Rides
 
-Architecture and Approach:
+### Architecture and Approach:
 
 ![image](https://user-images.githubusercontent.com/60545540/186569020-39f6741a-daf2-480c-bc55-a1cc33b427b7.png)
 
